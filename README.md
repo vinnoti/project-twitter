@@ -2,11 +2,11 @@
 
 List End Point:
 
-GET (url)/api/twitter/detail?id=2
-GET (url)/api/twitter/list
-POST (url)/api/twitter/create
-PATCH (url)/api/twitter/update?id=2
-DELETE (url)/api/twitter/delete?id=2
+- GET (url)/api/twitter/detail?id=2
+- GET (url)/api/twitter/list
+- POST (url)/api/twitter/create
+- PATCH (url)/api/twitter/update?id=2
+- DELETE (url)/api/twitter/delete?id=2
 
 response example:
 
